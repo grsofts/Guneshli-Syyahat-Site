@@ -1,0 +1,80 @@
+
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/uploads/fotos/foto_1.gif" alt="{login}" style="object-fit: cover;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('Stanislavskiy11', 'http://localhost/user/Stanislavskiy11/', '1'); return false;" href="http://localhost/user/Stanislavskiy11/"><span style="color:#FC6E51">Stanislavskiy11</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">Сегодня в 10:46:07</span></span>
+                Привет!
+              </div>
+    <div align="right">
+      [allow_reply]<img class="action" onmouseover="iChat_copy_quote('Stanislavskiy11');" onclick="iChat_reply('Stanislavskiy11'); return false;" src="http://localhost/templates/new/iChat/img/quote.png" alt="ќтветить" />[/allow_reply]
+      [allow_edit]<img class="action" onclick="iChatEdit('10','history'); return false;" src="http://localhost/templates/new/iChat/img/edit.png" alt="–едактировать"/>[/allow_edit]
+      [allow_delete]<img class="action" onclick="iChatDelete('10','history'); return false;" src="http://localhost/templates/new/iChat/img/delete.png" alt="”далить"/>[/allow_delete]
+   </div>
+        </div>
+
+
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/uploads/fotos/foto_1.gif" alt="{login}" style="object-fit: cover;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('Stanislavskiy11', 'http://localhost/user/Stanislavskiy11/', '1'); return false;" href="http://localhost/user/Stanislavskiy11/"><span style="color:#FC6E51">Stanislavskiy11</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">Сегодня в 10:35:10</span></span>
+                Мое сообщение !
+              </div>
+    <div align="right">
+      [allow_reply]<img class="action" onmouseover="iChat_copy_quote('Stanislavskiy11');" onclick="iChat_reply('Stanislavskiy11'); return false;" src="http://localhost/templates/new/iChat/img/quote.png" alt="ќтветить" />[/allow_reply]
+      [allow_edit]<img class="action" onclick="iChatEdit('9','history'); return false;" src="http://localhost/templates/new/iChat/img/edit.png" alt="–едактировать"/>[/allow_edit]
+      [allow_delete]<img class="action" onclick="iChatDelete('9','history'); return false;" src="http://localhost/templates/new/iChat/img/delete.png" alt="”далить"/>[/allow_delete]
+   </div>
+        </div>
+
+
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/uploads/fotos/foto_1.gif" alt="{login}" style="object-fit: cover;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('Stanislavskiy11', 'http://localhost/user/Stanislavskiy11/', '1'); return false;" href="http://localhost/user/Stanislavskiy11/"><span style="color:#FC6E51">Stanislavskiy11</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">Вчера в 21:00:25</span></span>
+                Привет!!!
+              </div>
+    <div align="right">
+      [allow_reply]<img class="action" onmouseover="iChat_copy_quote('Stanislavskiy11');" onclick="iChat_reply('Stanislavskiy11'); return false;" src="http://localhost/templates/new/iChat/img/quote.png" alt="ќтветить" />[/allow_reply]
+      [allow_edit]<img class="action" onclick="iChatEdit('8','history'); return false;" src="http://localhost/templates/new/iChat/img/edit.png" alt="–едактировать"/>[/allow_edit]
+      [allow_delete]<img class="action" onclick="iChatDelete('8','history'); return false;" src="http://localhost/templates/new/iChat/img/delete.png" alt="”далить"/>[/allow_delete]
+   </div>
+        </div>
+
+
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/uploads/fotos/foto_4.jpg" alt="{login}" style="object-fit: cover;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('User', 'http://localhost/user/User/', '1'); return false;" href="http://localhost/user/User/"><span style="color:#4FC1E9">User</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">29 марта 2017</span></span>
+                Просто сообщение ;)
+              </div>
+    <div align="right">
+      [allow_reply]<img class="action" onmouseover="iChat_copy_quote('User');" onclick="iChat_reply('User'); return false;" src="http://localhost/templates/new/iChat/img/quote.png" alt="ќтветить" />[/allow_reply]
+      [allow_edit]<img class="action" onclick="iChatEdit('6','history'); return false;" src="http://localhost/templates/new/iChat/img/edit.png" alt="–едактировать"/>[/allow_edit]
+      [allow_delete]<img class="action" onclick="iChatDelete('6','history'); return false;" src="http://localhost/templates/new/iChat/img/delete.png" alt="”далить"/>[/allow_delete]
+   </div>
+        </div>
+
+
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/templates/new/dleimages/noavatar.png" alt="{login}" style="object-fit: cover;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('User', 'http://localhost/user/User/', '1'); return false;" href="http://localhost/user/User/"><span style="color:#4FC1E9">User</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">29 марта 2017</span></span>
+                Приветствую вас! Земляне!
+              </div>
+    <div align="right">
+      [allow_reply]<img class="action" onmouseover="iChat_copy_quote('User');" onclick="iChat_reply('User'); return false;" src="http://localhost/templates/new/iChat/img/quote.png" alt="ќтветить" />[/allow_reply]
+      [allow_edit]<img class="action" onclick="iChatEdit('2','history'); return false;" src="http://localhost/templates/new/iChat/img/edit.png" alt="–едактировать"/>[/allow_edit]
+      [allow_delete]<img class="action" onclick="iChatDelete('2','history'); return false;" src="http://localhost/templates/new/iChat/img/delete.png" alt="”далить"/>[/allow_delete]
+   </div>
+        </div>
+

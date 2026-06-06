@@ -1,0 +1,153 @@
+<?php
+$word = array (
+	
+//headers
+'[home]'                =>  "Baş sahypa",
+'[services]'            =>  "Hyzmatlar",
+'[projects]'            =>  "Taslamalar",
+'[aviasales]'           =>  "Awiapetekler",
+'[contacts]'            =>  "Habarlaşmak",
+'[aboutus]'             =>  "Biz barada",
+'[language]'            =>  "Türkmençe",
+
+
+
+'[we_are_text]'         => "Biz hemişe siziň hyzmatyňyzda",
+
+
+'[year_work]'           => "ýyl iş tejribe",
+'[outgoing_touristes]'  => "syýahatçy ugradyldy",
+'[incoming_touristes]'  => "awiapetek satyldy",
+'[partners]'            => "hyzmatdaş kompaniýalar",
+
+//sliders
+'[slide1_title]'        =>  "Güneşli Syýahat bilen dünýäni görüň",
+'[slide1_subtitle]'     =>  "Biziň bilen syýahat etmek bilen ömrüňizde bir hekaýa dörediň.",
+
+'[slide2_title]'        =>  "Täze medeniýetleri öwreniň, dünýä bilen tanşyň!",
+'[slide2_subtitle]'     =>  "Biziň bilen her syýahat ajaýyp syýahatdyr. Geliň bilelikde gideliň",
+
+'[slide3_title]'        =>  "<span style='color:orange'>Siziň Türkmenistandaky</span> hyzmatdaşyňyz.",
+'[slide3_subtitle]'     =>  "Türkmenistanyň gözelligini we baý medeniýetini biziň bilen öwreniň. Gadymy küpek ýoly şäherlerinden başlap, Aşgabadyň häzirki täsinliklerine çenli.",
+
+'[read_more]'           =>  "Giňişleýin",
+
+
+
+//tours
+'[tour1_title]'         => "5 günlük gezelenç",
+'[tour2_title]'         => "8 günlük gezelenç",
+'[tour3_title]'         => "10 günlük gezelenç",
+'[tour4_title]'         => "VIP gezelenç",
+
+'[tour1_desc]'         => "5 günlük bu gezelençde Garagum çölüniň taryhy we oýnan dürli rollary ...",
+'[tour2_desc]'         => "Bu 8 günlük syýahat, Türkmenistanyň landşaftlarynyň dürlüligine haýran galmak isleýänler üçin döredildi.",
+'[tour3_desc]'         => "Bu 10 günlük syýahat, Türkmenistanyň landşaftlarynyň dürlüligine haýran galmak isleýänler üçin döredildi.",
+'[tour4_desc]'         => "Aşgabatda gezelenç.  Taryhy muzeýe we Haly muzeýine elde ýasalan halylaryň ajaýyp ýygyndysy...",
+
+
+//osobennosti
+
+'[our_plus]'            => "Biziň aýratynlyklarymyz",
+'[punkt1]'              => "Oňyn atmosfera",
+'[punkt1_desc]'         => "Işgärlerimiz size kömek etmekden we bolmagyňyzy mümkin boldugyça rahat we hezil etmekden elmydama hoşal",
+
+'[punkt2]'              => "Siziň rahatlygyňyz birinji orunda durýar",
+'[punkt2_desc]'         => "Syýahatyň ähli etaplarynda giňişleýin goldaw berýäris. Dynç alyşyňyzda gezelenç saýlamakdan we resminamalary doldurmakdan başlap, gije-gündiziň dowamynda aragatnaşyga çenli",
+
+'[punkt3]'              => "Ygtybarlylyk we howpsuzlyk",
+'[punkt3_desc]'         => "Diňe ýokary hilli hyzmatlary we howpsuzlygy kepillendirýän ynamdar hyzmatdaşlar bilen hyzmatdaşlyk edýäris",
+
+'[punkt4]'              => "Amatly bahalar",
+'[punkt4_desc]'         => "Islendik býudjetimize laýyk gezelençleri hödürleýäris. Dynç alyşy hemmeler üçin elýeterli etmek üçin yzygiderli mahabatlary geçirýäris we arzanladyş berýäris",
+
+
+'[video_about]'         => "Biz hakynda wideo",
+
+'[slogan_text]'         => "Biziň bilen ähli syýahatlaryňyz ýatdan çykmajak bolar",
+
+//services
+
+'[our_services]'       =>  "Biziň hödürleýän hyzmatlarymyz", 
+'[visas]'               => "Wiza resmileşdirmek",
+'[bron_hotels]'         => "Myhmanhana bronlama",
+'[transfer]'            => "Transfer hyzmatlary",
+'[sale_tickets]'        => "Awiapetekler",
+'[organization_conf]'   => "Söhbetdeşlikleri gurnamak",
+'[organization_tours]'  => "Turlary gurnamak",
+'[guides]'              => "Ýol belet hyzmaty",
+'[insurance]'           => "Ätiýaçlandyryş",
+'[vip_lounges]'         => "VIP zallar",
+'[sim_cards]'           => "SIM kartlar we aragatnaşyk",
+'[translate_docs]'      => "Resminamalaryň terjimesi",
+'[tickets_any]'         => "Islendik çäräniň biletleri",
+
+//our gosti
+'[our_dostijenie]'      => "Biziň myhmanlarymyz - Biziň şatlygymyz!",
+
+
+
+
+//our reviews
+'[our_reviews]'         => "Müşderilerimizden teswirler",
+
+
+
+
+//footer
+'[navigation]'          => "Nawigasiýa",
+'[contacts_subtitle]'   => "Aşakda görkezilen islendik belgi bilen habarlaşyp bilersiňiz.",
+
+
+//feedbackpage
+'[our_contacts]'        => "Biziň salgylarymyz",
+'[form_title]'          => "Hat ýazmak",
+'[your_name]'           => "Adyňyz",
+'[your_email]'          => "Siziň Email salgyňyz",
+'[subject_message]'     => "Mowzuk",
+'[body_message]'        => "Hat",
+'[send_btn]'            => "Haty ugratmak",
+'[call_btn]'            => "Jaň sargyt etmek",
+
+'[work_time]'           => "Iş wagty",
+'[call]'                => "Telefon",
+'[address]'             => "Salgy",
+
+'[our_contacts_subtitle]' => "Hyzmatlar hakynda islendik soragyňyza biziň işgärlerimizden jogap alyp bilersiňiz.",
+
+//projects
+'[projects_title]'      => "Taýýarlanan maksatnamalar",
+
+'[project_four]'        => "Сотрудничество с Посольством Франции в Ашхабаде по организации поездки для дипломатов",
+
+//tickets
+'[prices_title]'        => "Awiapetek bahalary",
+
+
+'[h_name]'              => "Ugurlar",
+'[h_type]'              => "Görnüşi",
+'[h_price]'             => "Baha (aralyk) (+/-) TMT.",
+
+
+//about
+'[about_title]'         => "Biz hakynda",
+'[about_full_text]'     => "\"Güneşli Syýahat\" syýahatçylyk kompaniýasy, Türkmenistanyň syýahatçylyk pudagynda syýahatçylyk we iş saparlaryny guramakda, şeýle hem korporatiw müşderiler üçin konferensiýalarda öňdebaryjy kompaniýa. PATA we JATA halkara guramalary bilen hyzmatdaşlygyň netijesinde bütin dünýäde howa biletlerini bron edýäris we satyn alýarys. Amatly geçirimler bilen siziň üçin iň amatly uçuş ýoluny saýlap bileris. Hünärmenler toparymyz myhmanhana bronlaryny we ýerüsti geçirişiň islendik görnüşini hem gurnaýar. Size doly wiza goldawyny bereris. \"Güneşli Syýahat\" 2016-njy ýyldan bäri syýahatçylara giň hyzmatlary hödürleýär. Biz, esasanam, myhmanlarymyz üçin Türkmenistana ýatdan çykmajak syýahat gurnap bileris. Dünýäniň iň üýtgeşik şäheri - Aşgabada (resmi taýdan Ginnesiň rekordlar kitabyna girizilen) baryp görüň. Diňe biziň bilen siwilizasiýanyň köklerine degip bilersiňiz, Darwaza gaz kraterini (Dowzah derwezeleri), Ýangi-Gala kanýonlaryny, Kow-Ata ýerasty kölüni, Dinozawr platosyny, Gadymy Merwi görüp bilersiňiz, rowaýata öwrülen ahal-teke atlary bilen olaryň watanynda duşuşyp bilersiňiz we tebigy täsinlikleriň toplumyny toplap bilersiňiz.",
+'[our_achievements]'    => "Biziň sepgitlerimiz",
+
+
+'[achiviement_two]'     => "Güneşli Syýahat kompaniýasynyň Beýik Britaniýa-Türkmenistan işewürlik forumyna gatnaşmagy",
+
+
+// 14.0
+'January'				=>	"Январь",
+'February'				=>	"Февраль",
+'March'					=>	"Март",
+'April'					=>	"Апрель",
+'May_m'					=>	"Май",
+'June'					=>	"Июнь",
+'July'					=>	"Июль",
+'August'				=>	"Август",
+'September'				=>	"Сентябрь",
+'October'				=>	"Октябрь",
+'November'				=>	"Ноябрь");
+?>

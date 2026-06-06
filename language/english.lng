@@ -1,0 +1,150 @@
+<?php
+$word = array (
+
+//headers
+'[home]'                =>  "Home",
+'[services]'            =>  "Services",
+'[projects]'            =>  "Projects",
+'[aviasales]'           =>  "Tickets",
+'[contacts]'            =>  "Contacts",
+'[aboutus]'             =>  "About us",
+'[language]'            =>  "English",
+
+
+
+'[we_are_text]'         => "We are always ready to help you",
+
+
+'[year_work]'           => "Years of work",
+'[outgoing_touristes]'  => "going tourists",
+'[incoming_touristes]'  => "tickets sold",
+'[partners]'            => "company partners",
+
+//sliders
+'[slide1_title]'        =>  "Discover the world with Guneshli Syyahat",
+'[slide1_subtitle]'     =>  "In our agency, every journey is a story you'll tell for a lifetime.",
+
+'[slide2_title]'        =>  "Explore new cultures, discover yourself and the world!",
+'[slide2_subtitle]'     =>  "With us, every journey is an amazing journey. Let's embark together!",
+
+'[slide3_title]'        =>  "Your Partner in <span style='color:orange'> Turkmenistan</span>",
+'[slide3_subtitle]'     =>  "Discover the beauty and rich culture of Turkmenistan with us. From the ancient Silk Road cities to the modern marvels of Ashgabat.",
+
+'[read_more]'           =>  "Read more",
+
+
+//tours
+'[tour1_title]'         => "5 days tour",
+'[tour2_title]'         => "8 days tour",
+'[tour3_title]'         => "10 days tour",
+'[tour4_title]'         => "VIP tour",
+
+'[tour1_desc]'         => "This 5-day tour tells the history of the Karakum Desert and the various roles it has played with...",
+'[tour2_desc]'         => "This 8-day tour is designed for those who want to be amazed by the diversity of Turkmenistan's landscapes.",
+'[tour3_desc]'         => "This 10-day tour is designed for those who want to be amazed by the diversity of Turkmenistan's landscapes.",
+'[tour4_desc]'         => "Ashgabat sightseeing tour.  We will visit the historical museum and the carpet Museum with a magnificent...",
+
+//osobennosti
+
+'[our_plus]'            => "Our features",
+'[punkt1]'              => "Positive atmosphere",
+'[punkt1_desc]'         => "Our staff are always happy to help you and make your stay as comfortable and enjoyable as possible",
+
+'[punkt2]'              => "Your comfort is our priority",
+'[punkt2_desc]'         => "From selecting the perfect tour and paperwork to 24/7 communication during your vacation, we are here for you!",
+
+'[punkt3]'              => "Reliability and safety",
+'[punkt3_desc]'         => "We cooperate only with trusted partners, guaranteeing high quality services and your safety",
+
+'[punkt4]'              => "Affordable prices",
+'[punkt4_desc]'         => "We offer a wide range of tours to suit any budget. We regularly hold promotions and provide discounts, making vacation accessible to everyone",
+
+'[video_about]'         => "Video of about us",
+
+
+'[slogan_text]'         => "With our experts, your flight experience will be unforgettable.",
+
+//services
+'[our_services]'       =>  "Services we provide", 
+'[visas]'               => "Visa",
+'[bron_hotels]'         => "Booking hotels",
+'[transfer]'            => "Transfers",
+'[sale_tickets]'        => "Avia tickets",
+'[organization_conf]'   => "Organization conferences",
+'[organization_tours]'  => "Organization tours",
+'[guides]'              => "Guides",
+'[insurance]'           => "Insurance",
+'[vip_lounges]'         => "VIP lounges",
+'[sim_cards]'           => "SIM cards and communications",
+'[translate_docs]'      => "Translation of documents",
+'[tickets_any]'         => "Tickets for any events",
+
+//our gosti
+'[our_dostijenie]'      => "Our guests - Our achievements!",
+
+
+//projects
+'[projects_title]'      => "Completed projects",
+
+'[project_four]'           => "05.2024 сотрудничество с Посольством Франции в Ашхабаде по организации поездки для дипломатов",
+
+
+//our reviews
+'[our_reviews]'         => "Reviews of guests",
+
+
+
+
+//feedbackpage
+'[our_contacts]'        => "Our contacts",
+'[form_title]'          => "Write your message",
+'[your_name]'           => "Your name",
+'[your_email]'          => "Your Email",
+'[subject_message]'     => "Subject",
+'[body_message]'        => "Message",
+'[send_btn]'            => "Send message",
+'[call_btn]'            => "Give me Call",
+
+'[work_time]'           => "Schedule",
+'[call]'                => "Call",
+'[address]'             => "Address",
+
+'[our_contacts_subtitle]' => "Our specialists will answer any question you may have about the service.",
+
+
+
+//footer
+'[navigation]'          => "Navigation",
+'[contacts_subtitle]'   => "You can contact us at any of the contacts listed below.",
+
+
+//tickets
+'[prices_title]'        => "Awia directions",
+
+'[h_name]'              => "Direction",
+'[h_type]'              => "Type",
+'[h_price]'             => "Price (range) (+/-) TMT.",
+
+
+//about
+'[about_title]'         => "About us",
+'[about_full_text]'     => "\"Guneshli Syyahat\" travel company is the leading company in the tourism market of Turkmenistan in organizing tourist and business trips, conferences for corporate clients. Cooperation with the international organizations PATA and JATA allows us to book and purchase air tickets all over the world.<br/>  We can find the best flight route for you with convenient air transfers Our professional team also organizes hotel bookings and any type of transfers. We can assist you with visa applications.\"Guneshli Syyahat\" has been providing a full range of services to tourists since 2016. We can organize an unforgettable trip to Turkmenistan especially for our guests. Visit the most extraordinary city in the world – Ashgabat (officially listed in the Guinness Book of Records). Only with us can you touch the roots of civilization, see the Darvaza Gas Crater (Gates of Hell), the Yangi-Kala Canyons, the Kov-Ata Underground Lake, the Dinosaur Plateau, Ancient Merv, encounter the legendary Akhal-Teke horses in their homeland, and collect a collection of natural wonders.",
+'[our_achievements]'    => "Our Achievements",
+
+'[achiviement_two]'     => "Participation of Guneshli Syyahat in the UK-Turkmenistan business forum",
+
+
+
+// 14.0
+'January'				=>	"Январь",
+'February'				=>	"Февраль",
+'March'					=>	"Март",
+'April'					=>	"Апрель",
+'May_m'					=>	"Май",
+'June'					=>	"Июнь",
+'July'					=>	"Июль",
+'August'				=>	"Август",
+'September'				=>	"Сентябрь",
+'October'				=>	"Октябрь",
+'November'				=>	"Ноябрь");
+?>

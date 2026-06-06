@@ -1,0 +1,45 @@
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/uploads/fotos/foto_1.gif" alt="{login}" style="object-fit:cover; width:28px; height:28px;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('Stanislavskiy11', '/user/Stanislavskiy11/', '1'); return false;" href="/user/Stanislavskiy11/"><span style="color:#FC6E51">Stanislavskiy11</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">1 апреля 2017</span></span>
+                Привет!
+              </div>
+        </div>
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/uploads/fotos/foto_1.gif" alt="{login}" style="object-fit:cover; width:28px; height:28px;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('Stanislavskiy11', '/user/Stanislavskiy11/', '1'); return false;" href="/user/Stanislavskiy11/"><span style="color:#FC6E51">Stanislavskiy11</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">1 апреля 2017</span></span>
+                Мое сообщение !
+              </div>
+        </div>
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/uploads/fotos/foto_1.gif" alt="{login}" style="object-fit:cover; width:28px; height:28px;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('Stanislavskiy11', '/user/Stanislavskiy11/', '1'); return false;" href="/user/Stanislavskiy11/"><span style="color:#FC6E51">Stanislavskiy11</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">31 марта 2017</span></span>
+                Привет!!!
+              </div>
+        </div>
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="http://localhost/uploads/fotos/foto_4.jpg" alt="{login}" style="object-fit:cover; width:28px; height:28px;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('User', '/user/User/', '1'); return false;" href="/user/User/"><span style="color:#4FC1E9">User</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">29 марта 2017</span></span>
+                Просто сообщение ;)
+              </div>
+        </div>
+
+
+<div class="direct-chat-msg">
+              <img class="direct-chat-img" src="/templates/webmovie/dleimages/noavatar.png" alt="{login}" style="object-fit:cover; width:28px; height:28px;">
+              <div class="direct-chat-text" style="background: #F5F7FA;">
+                  <span class="direct-chat-name pull-left"><a onclick="ShowProfile('User', '/user/User/', '1'); return false;" href="/user/User/"><span style="color:#4FC1E9">User</span> </a> <span style="font-size: 9px;color: #c5c5c5;float: right;">29 марта 2017</span></span>
+                Приветствую вас! Земляне!
+              </div>
+        </div>
+
+
