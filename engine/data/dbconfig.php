@@ -6,7 +6,7 @@ define ("DBNAME", "u851841038_guneshlitravel");
 
 define ("DBUSER", "u851841038_admin");
 
-define ("DBPASS", "Hostinger2026#");
+define ("DBPASS", "Hostinger1997G#");
 
 define ("PREFIX", "dle");
 
