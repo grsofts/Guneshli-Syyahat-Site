@@ -2,11 +2,11 @@
 
 define ("DBHOST", "localhost");
 
-define ("DBNAME", "test_dle");
+define ("DBNAME", "u851841038_guneshlitravel");
 
-define ("DBUSER", "root");
+define ("DBUSER", "u851841038_admin");
 
-define ("DBPASS", "");
+define ("DBPASS", "Hostinger2026#");
 
 define ("PREFIX", "dle");
 
