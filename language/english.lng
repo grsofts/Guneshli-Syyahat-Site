@@ -120,6 +120,8 @@ $word = array (
 
 //tickets
 '[prices_title]'        => "Awia directions",
+'[air_routes]'          => "Air directions",
+
 
 '[h_name]'              => "Direction",
 '[h_type]'              => "Type",

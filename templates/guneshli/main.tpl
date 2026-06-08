@@ -18,14 +18,11 @@
 <link rel="stylesheet" href="{THEME}/css/engine.css">
 <link rel="stylesheet" href="{THEME}/css/responsive.css">
 <link rel="stylesheet" href="/engine/classes/min/index.php?charset=utf-8&f={THEME}/uniform/css/uniform.css&114" />
-<<<<<<< HEAD
 
 <link rel="apple-touch-icon" sizes="180x180" href="/uploads/favicons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/uploads/favicons/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/uploads/favicons/favicon-16x16.png">
 <link rel="manifest" href="/uploads/favicons/site.webmanifest">
-=======
->>>>>>> f16d73e1b91740566e2c80dd8c284dd9af41172f
 </head>
 
 <body>

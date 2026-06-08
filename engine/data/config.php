@@ -16,7 +16,7 @@ $config = array (
 
 'start_site' => '1',
 
-'date_adjust' => 'Asia/Ashgabat',
+'date_adjust' => 'Asia/Tashkent',
 
 'allow_alt_url' => '1',
 

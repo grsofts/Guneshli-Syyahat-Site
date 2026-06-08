@@ -14,7 +14,7 @@
 <div class="row">
 <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2 col-12">
 <div class="section-title default text-center">
-<div class="section-top"><h1><b>[prices_title]</b></h1></div>
+<div class="section-top"><h1><b>[air_routes]</b></h1></div>
 <div class="section-bottom">
 <div class="text"><p></p></div>
 </div></div></div></div>

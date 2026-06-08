@@ -1114,7 +1114,7 @@ elseif ($do == 'addnews') $nam_e = $lang['title_addnews'];
 elseif ($do == 'register') $nam_e = $lang['title_register'];
 elseif ($do == 'favorites') $nam_e = $lang['title_fav'];
 elseif ($do == 'pm') $nam_e = $lang['title_pm'];
-elseif ($do == 'feedback') $nam_e = $lang['title_feed'];
+elseif ($do == 'feedback') $nam_e = $word['[contacts]'];
 elseif ($do == 'lastcomments') $nam_e = $lang['title_last'];
 elseif ($do == 'lostpassword') $nam_e = $lang['title_lost'];
 elseif ($do == 'search') $nam_e = $lang['title_search'];
@@ -1150,10 +1150,9 @@ if ( ( isset($_GET['cstart']) AND intval($_GET['cstart']) > 1 ) OR (isset($_GET[
 
 } else $page_extra = '';
 
-
 if ($nam_e) {
 
-	$metatags['title'] = $nam_e . $page_extra . ' &raquo; ' . $metatags['title'];
+	$metatags['title'] = $nam_e; //. $page_extra . ' &raquo;' . $metatags['title']
 	$rss_title = $metatags['title'];
 
 } elseif ($titl_e) {

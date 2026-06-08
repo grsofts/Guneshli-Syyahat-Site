@@ -8,7 +8,7 @@
 </div>
 </div></div></div></div>
 
-<div class="row mt-5">               
+<div class="d-flex mt-5">               
 <div class="col-lg-5 col-md-6 col-12">
 </div>
 <img src="{THEME}/images/head_logo.webp" width="300" height="300" alt="images"/>
@@ -43,7 +43,6 @@
 <div class="col-12">
 <div class="portfolio-main">
 <div id="portfolio-item" class="portfolio-item-active">
-<<<<<<< HEAD
 
 <div class="cbp-item business animation">
     <div class="single-portfolio">
@@ -66,54 +65,6 @@
 </div>
 
 
-=======
-    
-<div class="cbp-item business animation">
-<div class="single-portfolio">
-<div class="portfolio-head overlay">
-<img src="{THEME}/images/certificates/usaid_cert.jpg" alt="images">
-<a></a>
-</div></div></div>
-<!--
-<div class="cbp-item seo consulting">
-<div class="single-portfolio">
-<div class="portfolio-head overlay">
-<img src="{THEME}/images/tourists/image2.webp" alt="images">
-<a></a>
-</div></div></div>
-
-<div class="cbp-item marketing branding">
-<div class="single-portfolio">
-<div class="portfolio-head overlay">
-<img src="{THEME}/images/tourists/image3.webp" alt="images">
-<a></a>
-</div></div></div>
-
-<div class="cbp-item animation branding">
-<div class="single-portfolio">
-<div class="portfolio-head overlay">
-<img src="{THEME}/images/tourists/image4.webp" alt="images">
-<a></a>
-</div></div></div>
-
-<div class="cbp-item branding consulting">
-<div class="single-portfolio">
-<div class="portfolio-head overlay">
-<img src="{THEME}/images/tourists/image5.webp" alt="images">
-<a ></a>
-</div></div></div>
-<!--
-<div class="cbp-item business marketing">
-<div class="single-portfolio">
-<div class="portfolio-head overlay">
-<img src="{THEME}/images/gallery/gyzgala.jpg" alt="images">
-<a></a>
-</div>
-<div class="portfolio-content">
-<p>Gyzlar galasy</p>
-</div></div></div>
--->
->>>>>>> f16d73e1b91740566e2c80dd8c284dd9af41172f
 </div></div></div></div>
 
 </div></section>

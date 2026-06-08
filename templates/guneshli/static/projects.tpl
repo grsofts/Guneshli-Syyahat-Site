@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <div class="breadcrumbs overlay" style="background-image:url('{THEME}/images/slider1.jpg')">
-=======
-<div class="breadcrumbs overlay" style="background-image:url('{THEME}/images/breadcrumb.jpg')">
->>>>>>> f16d73e1b91740566e2c80dd8c284dd9af41172f
 <div class="container"><div class="row"><div class="col-12">
 <div class="bread-inner">
 <div class="bread-menu">
@@ -64,7 +60,6 @@
 <p>Организации тура «Северное Сияние» в Норвегию для руководства строительной компании.</p>
 </div></div></div>
 
-<<<<<<< HEAD
    
 <div class="col-lg-4 col-md-4 col-12">
 <div class="single-service">
@@ -86,8 +81,6 @@
 <p>Реализация комплексной экскурсионно-познавательной программы для гостей компании Petronas</p>
 </div></div></div>
 
-=======
->>>>>>> f16d73e1b91740566e2c80dd8c284dd9af41172f
 </div>
 
 </div>

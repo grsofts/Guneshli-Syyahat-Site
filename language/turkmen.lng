@@ -122,6 +122,7 @@ $word = array (
 
 //tickets
 '[prices_title]'        => "Awiapetek bahalary",
+'[air_routes]'          => "Howaýollary",
 
 
 '[h_name]'              => "Ugurlar",
