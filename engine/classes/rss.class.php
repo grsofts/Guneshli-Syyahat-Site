@@ -20,8 +20,8 @@ if( !defined( 'DATALIFEENGINE' ) ) {
 	header ( 'Location: ../../' );
 	die( "Hacking attempt!" );
 }
-
-class xmlParser {
+class dle_xmlParser {
+// class xmlParser {
 	
 	var $att;
 	var $id;

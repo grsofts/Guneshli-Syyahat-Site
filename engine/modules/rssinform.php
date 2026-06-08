@@ -111,7 +111,8 @@ if( count( $informers ) ) {
 
 			include_once (DLEPlugins::Check(ENGINE_DIR . '/classes/rss.class.php'));
 			
-			$xml = new xmlParser( stripslashes( $value['url'] ), $value['news_max'] );
+			//$xml = new xmlParser( stripslashes( $value['url'] ), $value['news_max'] );
+			$xml = new dle_xmlParser( stripslashes( $value['url'] ), $value['news_max'] );
 						
 			$xml->pre_parse( 0 );
 

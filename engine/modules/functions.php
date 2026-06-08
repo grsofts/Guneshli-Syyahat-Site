@@ -267,7 +267,14 @@ function ShowRating($id, $rating, $vote_num, $allow = true) {
 			
 			$shema_title = " itemprop=\"aggregateRating\" itemscope itemtype=\"https://schema.org/AggregateRating\"";
 			$shema_ratig = $rating;
-			$shema_ratig_title = str_replace("&amp;amp;", "&amp;",  htmlspecialchars( strip_tags( stripslashes( $row['title'] ) ), ENT_QUOTES, $config['charset'] ) );
+			$title = '';
+
+			if (is_array($row) && isset($row['title'])) {
+				$title = $row['title'];
+			}
+
+			$shema_ratig_title = str_replace("&amp;amp;", "&amp;", htmlspecialchars(strip_tags(stripslashes($title)), ENT_QUOTES, $config['charset']));
+			//$shema_ratig_title = str_replace("&amp;amp;", "&amp;",  htmlspecialchars( strip_tags( stripslashes( $row['title'] ) ), ENT_QUOTES, $config['charset'] ) );
 			$shema = "<meta itemprop=\"itemReviewed\" content=\"{$shema_ratig_title}\"><meta itemprop=\"worstRating\" content=\"1\"><meta itemprop=\"ratingCount\" content=\"{$vote_num}\"><meta itemprop=\"ratingValue\" content=\"{$shema_ratig}\"><meta itemprop=\"bestRating\" content=\"5\">";
 
 		} else {

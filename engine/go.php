@@ -19,14 +19,14 @@ if(isset($_GET['lang'])){
 	$_SESSION['lang'] = $_GET['lang'];
 }
 
-$lang = 'en';
+$lg = 'en';
 if (isset($_SESSION['lang'])) {
-	$lang = $_SESSION['lang'];
+	$lg = $_SESSION['lang'];
 }
 
-if($lang == 'ru'){
+if($lg == 'ru'){
 	include_once(__DIR__ . '/../language/russian.lng');	
-}else if($lang == 'tm'){
+}else if($lg == 'tm'){
 	include_once(__DIR__ . '/../language/turkmen.lng');
 }else{
 	include_once(__DIR__ . '/../language/english.lng');

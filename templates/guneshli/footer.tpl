@@ -48,6 +48,7 @@
 <div class="social">
 <ul class="social-icons">
 <li><a class="instagram" href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><a class="tiktok" href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
 </ul>
 </div><!--
 <div class="button"><a href="#" data-uf-open="/engine/ajax/uniform/uniform.php" data-uf-settings='{"formConfig": "callback"}' class="bizwheel-btn">Обратный связь</a></div>
@@ -57,11 +58,11 @@
 <div class="single-widget f-link widget">
 <h3 class="widget-title">[navigation]</h3>
 <ul>
-<li><a href="#">[home]</a></li>
-<li><a href="#">[aboutus]</a></li>
-<li><a href="#">[services]</a></li>
-<li><a href="#">[projects]</a></li>
-<li><a href="#">[contacts]</a></li>
+<li><a href="/">[home]</a></li>
+<li><a href="about.html">[aboutus]</a></li>
+<li><a href="services.html">[services]</a></li>
+<li><a href="projects.html">[projects]</a></li>
+<li><a href="index.php?do=feedback">[contacts]</a></li>
 </ul>
 </div></div>
 
@@ -75,7 +76,7 @@
 <li><a href="#">[sale_tickets]</a></li>
 <li><a href="#">[organization_conf]</a></li>
 <li><a href="#">[organization_tours]</a></li>
-<li><a href="#">[guides]</a></li>
+<li><a href="services.html">[others]</a></li>
 </ul>
 </div></div>
 
@@ -84,9 +85,9 @@
 <h3 class="widget-title">[contacts]</h3>
 <p>[contacts_subtitle]</p>
 <ul class="address-widget-list">
-<li class="footer-mobile-number"><i class="fa fa-phone"></i>21-07-50 ||  21-07-51</li>
+<li class="footer-mobile-number"><i class="fa fa-phone"></i>+993 12 47-30-24</li>
 <li class="footer-mobile-number"><i class="fa fa-envelope"></i>info@guneshlitravel.com</li>
-<li class="footer-mobile-number"><i class="fa fa-map-marker"></i>Туркменистан, Ашхабад, пр. А. Ниязова 174</li>
+<li class="footer-mobile-number"><i class="fa fa-map-marker"></i>Ashgabat, N. Andalyp st. (Parahat-4 " AB merkezi" täjirçilik merkezi)</li>
 </ul>
 </div></div>
 
@@ -97,7 +98,7 @@
 <div class="row">
 <div class="col-12">
 <div class="copyright-content">
-<p>© Copyright &copy; 2024. Разработано <a href="/" target="_blank">GRSofts</a></p>
+<p>© Copyright &copy; 2026. Разработано <a href="/" target="_blank">GRSofts</a></p>
 </div></div></div></div></div>
 
 </footer>
