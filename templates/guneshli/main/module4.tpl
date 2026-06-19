@@ -36,7 +36,6 @@
 <div class="single-portfolio">
 <div class="portfolio-head overlay">
 <img src="{THEME}/images/tourists/tourism1.webp" alt="images">
-<a></a>
 </div>
 <!--<div class="portfolio-content">
 <p></p>
@@ -46,7 +45,6 @@
 <div class="single-portfolio">
 <div class="portfolio-head overlay">
 <img src="{THEME}/images/tourists/tourism2.JPG" alt="images">
-<a></a>
 </div>
 <!--<div class="portfolio-content">
 <p></p>
@@ -56,7 +54,6 @@
 <div class="single-portfolio">
 <div class="portfolio-head overlay">
 <img src="{THEME}/images/tourists/tourism3.JPG" alt="images">
-<a></a>
 </div>
 <!--<div class="portfolio-content">
 <p></p>
@@ -66,7 +63,6 @@
 <div class="single-portfolio">
 <div class="portfolio-head overlay">
 <img src="{THEME}/images/tourists/tourism4.JPG" alt="images">
-<a></a>
 </div>
 <!--<div class="portfolio-content">
 <p></p>
@@ -76,22 +72,21 @@
 <div class="single-portfolio">
 <div class="portfolio-head overlay">
 <img src="{THEME}/images/tourists/tourism5.JPG" alt="images">
-<a ></a>
 </div>
+
 <!--<div class="portfolio-content">
 <p></p>
 </div>--></div></div>
-<!--
+
 <div class="cbp-item business marketing">
 <div class="single-portfolio">
 <div class="portfolio-head overlay">
-<img src="{THEME}/images/gallery/gyzgala.jpg" alt="images">
-<a></a>
+<img src="{THEME}/images/tourists/tourism6.jpg" alt="images">
 </div>
-<div class="portfolio-content">
-<p>Gyzlar galasy</p>
-</div></div></div>
--->
+<!-- <div class="portfolio-content">
+ <p>Gyzlar galasy</p>
+ </div></div></div>-->
+
 </div></div></div></div>
     <div class="row"></div>
 </div></section>

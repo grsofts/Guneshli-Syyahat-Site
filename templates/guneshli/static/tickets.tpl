@@ -19,7 +19,7 @@
 <div class="text"><p></p></div>
 </div></div></div></div>
     
- <img src="{THEME}/images/map.jpg" width="1500" height="400" alt="images"/>
+ <img src="{THEME}/images/map.png" width="1500" height="400" alt="images"/>
     <!--
 <table class="table table-striped table-bordered table-hover">
 <thead>

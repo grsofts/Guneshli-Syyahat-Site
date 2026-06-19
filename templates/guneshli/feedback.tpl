@@ -67,7 +67,7 @@
 <div class="c-icon"><i class="fa fa-clock-o"></i></div>
 <div class="c-text">
 <h4>[work_time]</h4>
-<p>Пнд - Пт<br>09:00 - 18:00</p>
+<p>Mon - Fri<br>09:00 - 18:00</p>
 </div></div>
                             
 <div class="single-contact-box">
@@ -81,7 +81,7 @@
 <div class="c-icon"><i class="fa fa-map-marker"></i></div>
 <div class="c-text">
 <h4>[address]</h4>
-<p>Ashgabat, N. Andalyp st. (Parahat-4 " AB merkezi" täjirçilik merkezi)</p>
+<p>Ashgabat, (Parahat-4) " AB merkezi" Business Center</p>
 </div></div>
 
 <div class="single-contact-box">

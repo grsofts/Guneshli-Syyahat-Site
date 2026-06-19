@@ -64,7 +64,7 @@
 <div class="single-counter">
 <div class="icon"><i class="fa fa-life-ring"></i></div>
 <div class="conter-content">
-<div class="counter-head"><h3><b class="number">21000</b><span>+</span></h3></div>
+<div class="counter-head"><h3><b class="number">33000</b><span>+</span></h3></div>
 <p>[outgoing_touristes]</p>
 </div></div></div>
 
@@ -72,7 +72,7 @@
 <div class="single-counter">
 <div class="icon"><i class="fa fa-fire"></i></div>
 <div class="conter-content">
-<div class="counter-head"><h3><b class="number">8</b><span>+</span></h3></div>
+<div class="counter-head"><h3><b class="number">10</b><span>+</span></h3></div>
 <p>[year_work]</p>
 </div></div></div>
 

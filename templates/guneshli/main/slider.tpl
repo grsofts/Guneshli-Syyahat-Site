@@ -1,7 +1,7 @@
 <section class="hero-slider style1">
 <div class="home-slider">
 
-<div class="single-slider" style="background-image:url('{THEME}/images/night_slider.webp')">
+<div class="single-slider" style="background-image:url('{THEME}/images/banner1.jpg')">
 <div class="container">
 <div class="row">
 <div class="col-lg-7 col-md-8 col-12">

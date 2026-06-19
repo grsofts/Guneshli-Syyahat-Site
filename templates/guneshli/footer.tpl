@@ -32,7 +32,7 @@
 </div></div></div></div></div>
 [/available]
 
-<footer class="footer" style="background-image:url('{THEME}/images/map.png')">
+<footer class="footer" style="background-image:url('{THEME}/images/worldmap.png')">
 <div class="footer-top">
 <div class="container">
 <div class="row">
@@ -87,7 +87,7 @@
 <ul class="address-widget-list">
 <li class="footer-mobile-number"><i class="fa fa-phone"></i>+993 12 47-30-24</li>
 <li class="footer-mobile-number"><i class="fa fa-envelope"></i>info@guneshlitravel.com</li>
-<li class="footer-mobile-number"><i class="fa fa-map-marker"></i>Ashgabat, N. Andalyp st. (Parahat-4 " AB merkezi" täjirçilik merkezi)</li>
+<li class="footer-mobile-number"><i class="fa fa-map-marker"></i>Ashgabat, (Parahat-4) " AB merkezi" Business Center</li>
 </ul>
 </div></div>
 
