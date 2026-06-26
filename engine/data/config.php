@@ -10,7 +10,7 @@ $config = array (
 
 'description' => 'Developed by GRSofts',
 
-'keywords' => 'DataLife, Engine, CMS, PHP движок',
+'keywords' => 'guneshli, syyahat, turkmenistan, travel, syyahatcylyk, turkmenistan travel',
 
 'short_title' => 'Guneshli Syyahat',
 
@@ -50,11 +50,11 @@ $config = array (
 
 'ip_control' => '1',
 
-'allow_recaptcha' => '1',
+'allow_recaptcha' => '0',
 
-'recaptcha_public_key' => '6LfcCRsqAAAAAD233KFrWVw32OBin8R47r_bYzpR',
+'recaptcha_public_key' => '6LdJZDEtAAAAAA0Ft99TJuOVmhl9P-xyiO3Xk-kC',
 
-'recaptcha_private_key' => '6LfcCRsqAAAAAFQ23RP9dImXgNJuzsYj2IaWccWq',
+'recaptcha_private_key' => '6LdJZDEtAAAAAHVaaXnVpqmCfQ-kQ2Jiasxt-MxY',
 
 'recaptcha_theme' => 'light',
 
@@ -228,19 +228,19 @@ $config = array (
 
 'mail_title' => '',
 
-'mail_metod' => 'php',
+'mail_metod' => 'smtp',
 
-'smtp_host' => 'localhost',
+'smtp_host' => 'smtp.hostinger.com',
 
-'smtp_port' => '25',
+'smtp_port' => '465',
 
-'smtp_user' => '',
+'smtp_user' => 'noreply@guneshlitravel.com',
 
-'smtp_pass' => '',
+'smtp_pass' => ';3i;ZpF&gt;*bS1',
 
-'smtp_secure' => '',
+'smtp_secure' => 'ssl',
 
-'smtp_mail' => '',
+'smtp_mail' => 'iphone.guvanch@gmail.com',
 
 'auth_metod' => '0',
 

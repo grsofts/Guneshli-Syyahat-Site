@@ -122,9 +122,10 @@ if ( $config['sec_addnews'] AND $recipient['user_group'] != 1 ) {
 
 }
 
+
 if( !$recipient['fullname'] ) $recipient['fullname'] = $recipient['name'];
 
-if (!$recipient['name']) $stop .= $lang['feed_err_8'];
+if (!$recipient['name']) $recipient['name'] = 'From Site';
 
 if( $user_group[$member_id['user_group']]['max_mail_day'] ) {
 		
@@ -397,6 +398,12 @@ if( $stop ) {
 	$mail->from = $email;
 				
 	$mail->send( $recipient['email'], $subject, $row['template'] );
+
+	file_put_contents(
+			__DIR__ . '/feedback_log_' . getdate() . '.txt',
+			print_r(json_encode($mail), true) . "\n\n",
+			FILE_APPEND
+		);
 
 	if( $mail->send_error ) {
 

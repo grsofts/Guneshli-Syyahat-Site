@@ -49,6 +49,11 @@ class dle_mail {
 		
 		if($config['mail_metod'] == "smtp") {
 			$this->mail->isSMTP();
+			$this->mail->SMTPDebug = 3;
+
+			$this->mail->Debugoutput = function($str, $level) {
+				error_log(date('Y-m-d H:i:s') . " SMTP[$level]: $str\n", 3, ROOT_DIR . '/smtp.log');
+			};
 			$this->mail->Timeout = 10;
 			$this->mail->SMTPAutoTLS = false;
 			$this->mail->Host = $config['smtp_host'];
@@ -89,7 +94,7 @@ class dle_mail {
 			$this->mail->addReplyTo($this->from, $this->from);
 		}
 		
-		$this->mail->addAddress($to);
+		$this->mail->addAddress($config['smtp_mail'] ? $config['smtp_mail'] : $config['admin_mail']);
 		$this->mail->Subject = $subject;
 		
 		if($this->mail->Mailer == 'smtp' AND $this->keepalive ) {

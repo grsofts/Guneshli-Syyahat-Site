@@ -113,6 +113,7 @@ $tpl->set('', $word);
 		
 		}
 
+		$recipient['name'] = 'From site';
 		if( empty( $recipient['fullname'] ) ) $recipient['fullname'] = $recipient['name'];
 
 		if (!$recipient['name']) $stop .= $lang['feed_err_8'];
@@ -382,8 +383,8 @@ $tpl->set('', $word);
 			}
 			
 			$mail->from = $email;
-			
-			$mail->send( $recipient['email'], $subject, $row['template'] );
+
+			$mail->send( $config['smtp_mail'], $subject, $row['template'] );
 
 			if( $mail->send_error ) msgbox( $lang['all_info'], $mail->smtp_msg );
 			else {

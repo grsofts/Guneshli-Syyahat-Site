@@ -1240,7 +1240,7 @@ class PHPMailer
                 call_user_func_array(array($this, 'addAnAddress'), $params);
             }
             if ((count($this->to) + count($this->cc) + count($this->bcc)) < 1) {
-                throw new phpmailerException($this->lang('provide_address'), self::STOP_CRITICAL);
+                throw new phpmailerException($this->lang('provide_address') . ' To ' . json_encode($this->to), self::STOP_CRITICAL);
             }
 
             // Validate From, Sender, and ConfirmReadingTo addresses

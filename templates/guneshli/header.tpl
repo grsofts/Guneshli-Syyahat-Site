@@ -7,10 +7,19 @@
                     <div class="middle-inner">
                         <div class="row">
                             <div class="col-lg-2 col-md-3 col-12">
-                                <div class="logo">
+                                <div class="logo" style="display: flex; align-items: center;">
                                     <a href="/" style="font-size:15px">
-                                        <img src="{THEME}/images/head_logo.webp" width="100" height="100" alt="images"/>
+                                        <img src="{THEME}/images/head_logo.webp" width="150" height="150" alt="images"/>
                                     </a>
+                                    
+                                    <span style="font-size:32px;margin:0 12px;color:#555;">×</span>
+
+                                    <!-- Логотип партнера -->
+                                    <a href="https://kazakhservicecenter.com" target="_blank">
+                                        <img src="{THEME}/images/head_kazakh.png"
+                                            width="120"
+                                            height="120"
+                                            alt="Partner"></a>
                                 </div>
                                 
                            </div>
