@@ -47,8 +47,8 @@
 </div>	
 <div class="social">
 <ul class="social-icons">
-<li><a class="instagram" href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-<li><a class="tiktok" href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a class="instagram" href="https://www.instagram.com/guneshli_syyahat/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<!--<li><a class="tiktok" href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>-->
 </ul>
 </div><!--
 <div class="button"><a href="#" data-uf-open="/engine/ajax/uniform/uniform.php" data-uf-settings='{"formConfig": "callback"}' class="bizwheel-btn">Обратный связь</a></div>
