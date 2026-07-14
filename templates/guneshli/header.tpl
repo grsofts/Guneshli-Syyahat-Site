@@ -12,13 +12,13 @@
                                         <img src="{THEME}/images/head_logo.webp" width="150" height="150" alt="images"/>
                                     </a>
                                     
-                                    <span style="font-size:32px;margin:0 12px;color:#555;">×</span>
+                                    <span style="font-size:32px;margin:0 12px;color:#555;">&</span>
 
                                     <!-- Логотип партнера -->
                                     <a href="https://kazakhservicecenter.com" target="_blank">
                                         <img src="{THEME}/images/head_kazakh.png"
-                                            width="120"
-                                            height="120"
+                                            width="150"
+                                            height="150"
                                             alt="Partner"></a>
                                 </div>
                                 
